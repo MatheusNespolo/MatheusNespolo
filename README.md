@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatheusNespolo
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning Process Automation
-- 💞️ I’m looking to collaborate on Indie projects
+- 💞️ I’m looking to start my first project
 - 📫 How to reach me nespolo.m1@gmail.com
 
 <!---

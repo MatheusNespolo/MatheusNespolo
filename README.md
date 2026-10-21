@@ -5,7 +5,7 @@
 
 <!-- Letreiro digitando -->
 <a href="https://github.com/MatheusNespolo">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Matheus!;Especialista+em+Automa%C3%A7%C3%A3o;Transformo+processos+em+fluxos+inteligentes;Conectando+sensores%2C+c%C3%B3digo+e+m%C3%A1quinas;Menos+tarefa+repetitiva%2C+mais+tempo+para+inovar;Se+d%C3%A1+pra+automatizar%2C+eu+automatizo!" alt="Letreiro animado" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Matheus!;Especialista+em+Automa%C3%A7%C3%A3o;Processos+>+fluxos+inteligentes;Conectando+sensores%2C+c%C3%B3digo+e+m%C3%A1quinas;Menos+tarefa+repetitiva%2C+mais+tempo+para+inovar;Se+d%C3%A1+pra+automatizar%2C+eu+automatizo!" alt="Letreiro animado" />
 </a>
 
 <br/>

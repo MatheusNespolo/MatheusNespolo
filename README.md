@@ -20,11 +20,11 @@
 
 Sou desenvolvedor apaixonado por tecnologia e **especialista em automação**. Meu trabalho é olhar para um processo, entender onde se perde tempo e transformar isso em sistemas que trabalham sozinhos: do chão de fábrica ao código. <br>
 class Matheus: <br>
-    cargo = "Especialista em Automação"
-    missao = "Eliminar o trabalho repetitivo e deixar as máquinas fazerem o pesado"
-    linguagens = ["JavaScript", "Python", "Java"]
-    ferramentas = ["Git", "VS Code", "Docker"]
-    lema = "Se dá pra automatizar, eu automatizo!"
+      cargo = "Especialista em Automação" <br>
+      missao = "Eliminar o trabalho repetitivo e deixar as máquinas fazerem o pesado" <br>
+      linguagens = ["JavaScript", "Python", "Java"] <br>
+      ferramentas = ["Git", "VS Code", "Docker"] <br>
+      lema = "Se dá pra automatizar, eu automatizo!" <br>
 ### ⚙️ O que um especialista em automação faz?
 
 - 🔍 **Mapeia processos** e encontra gargalos, falhas e tarefas manuais

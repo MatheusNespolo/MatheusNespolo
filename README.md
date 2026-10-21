@@ -19,7 +19,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou desenvolvedor apaixonado por tecnologia e **especialista em automação**. Meu trabalho é olhar para um processo, entender onde se perde tempo e transformar isso em sistemas que trabalham sozinhos: do chão de fábrica ao código. <br>
-class Matheus:
+class Matheus: <br>
     cargo = "Especialista em Automação"
     missao = "Eliminar o trabalho repetitivo e deixar as máquinas fazerem o pesado"
     linguagens = ["JavaScript", "Python", "Java"]
